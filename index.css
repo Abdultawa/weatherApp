@@ -96,6 +96,7 @@ body{
 @media (max-width: 900px){
     .card{
         width: 100%;
+        background-size: contain;
     }
     .search button{
         padding: 15px;
